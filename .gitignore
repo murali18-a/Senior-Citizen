@@ -6,7 +6,7 @@ yarn-error.log*
 pnpm-debug.log*
 
 # Build output
-# dist/
+# dist/ - committed to repo for GitHub Pages deployment
 build/
 
 # IDE
